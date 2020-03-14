@@ -1,3 +1,3 @@
-console.log("test");
-console.log("test1");
-console.log("test2");
+var test = "asd";
+console.log(test);
+var test1 = "test1";
