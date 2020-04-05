@@ -1,2 +1,2 @@
 var master = "this is master"
-var C = "this is c"
+var c = "this is c"
